@@ -1,0 +1,4 @@
+E:\c#workspace\Student\Student\bin\Student.dll
+E:\c#workspace\Student\Student\bin\Student.pdb
+E:\c#workspace\Student\Student\obj\Debug\Student.dll
+E:\c#workspace\Student\Student\obj\Debug\Student.pdb
